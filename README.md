@@ -87,4 +87,3 @@ This project detects human facial emotions in real-time using two approaches: **
 
 * Run `emotion.py` for quick testing of emotion detection.
 * Train your own model in `trainmodel.ipynb` to improve detection accuracy for your specific use case.
-* You can combine both methods to validate predictions or improve robustness.
