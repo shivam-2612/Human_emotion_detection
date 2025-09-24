@@ -36,7 +36,7 @@ This project detects human facial emotions in real-time using two approaches: **
 
 2. **Clone the Repository**
    ```bash
-   git clone <your_repo_url>
+   git clone <https://github.com/shivam-2612/Human_emotion_detection.git>
    cd face-emotion-detection
    ```
 
