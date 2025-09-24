@@ -21,7 +21,11 @@ This project detects human facial emotions in real-time using two approaches: **
 
 - `realtimedetection.py` →  
   - Loads the trained model (`.h5` + `.json`) and predicts emotions in real-time.  
-  - Displays the emotion on detected faces in live webcam feed.  
+  - Displays the emotion on detected faces in live webcam feed.
+
+**Trained Model Download**  
+  - If you do not want to train the model yourself, you can download the pre-trained model files from this link:  
+    [Download Trained Model](https://drive.google.com/drive/folders/17gYQ7j7hjJ4A09jGw_L3BD7lquKhWir0?usp=sharing)
 
 ---
 
@@ -87,3 +91,5 @@ This project detects human facial emotions in real-time using two approaches: **
 
 * Run `emotion.py` for quick testing of emotion detection.
 * Train your own model in `trainmodel.ipynb` to improve detection accuracy for your specific use case.
+* Or use the pre-trained model from the Google Drive link to skip training.
+* 
